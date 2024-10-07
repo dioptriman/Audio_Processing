@@ -5,4 +5,4 @@ The repository was made for DSP Class Assignment. The repository was created usi
 ## The Results of Filtering Plot
 
 ### High Pass Filter
-![High Pass Filter](filtered_plot_islandy.wav_Band.png)
+![High Pass Filter](filtered_plot_islandy.wav_High.png)
