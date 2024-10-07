@@ -1,1 +1,3 @@
-# Audio_Processing
+# Audio Processing
+
+The repository was made for DSP Class Assignment. The repository was created using Python with Scipy, Numpy, and Matploylib Library.
