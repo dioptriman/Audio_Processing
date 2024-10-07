@@ -6,3 +6,6 @@ The repository was made for DSP Class Assignment. The repository was created usi
 
 ### High Pass Filter
 ![High Pass Filter](filtered_plot_islandy.wav_High.png)
+
+### Band Pass Filter
+![High Pass Filter](filtered_plot_islandy.wav_Band.png)
