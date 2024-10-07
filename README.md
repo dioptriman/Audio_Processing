@@ -12,3 +12,5 @@ The repository was made for DSP Class Assignment. The repository was created usi
 
 ### Low Pass Filter
 ![Low Pass Filter](filtered_plot_islandy.wav_Low.png)
+
+P.S.: There is also a result file for each filter.
